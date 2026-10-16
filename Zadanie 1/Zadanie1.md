@@ -10,7 +10,7 @@
 - odpowiadanie na proste pytania zadawane w języku naturalnym (np. polskim),
   ## Nie, jest to czynność który wykonuje każdy człowiek codziennie.
 - układanie rozkładu jazdy transportu miejskiego,
-  Do wykonania tego zadania bez używania programów AI jak najbardziej, wymagana by była przynajmniej podstawowa wiedza Logistyczna.
+  ## Do wykonania tego zadania bez używania programów AI jak najbardziej, wymagana by była przynajmniej podstawowa wiedza Logistyczna.
 - programowanie (pisanie programów komputerowych),
   ## Do wykonania tego zadania bez pomocy AI jak najbardzziej jest potrzebna wyższa inteligencja, gdyż potrzebna jest przynajmniej podstawowa wiedza informatyczna, oraz języków programowania.
 - „programowanie” kanałów telewizyjnych,
