@@ -1,0 +1,15 @@
+# Które z następujących zadań wymagają w Twojej opinii inteligencji od człowieka:
+- wypełnianie deklaracji PIT, Nie, ponieważ są programy które zrobią to za ludzi. Wystarczy zrobić zdjecie i wstawić je do odpowiedniego programu. W dalszym ciągu jeżeli człowiek by się podją tego zadania samodzielnie nie wymagało by to od niego wyższego ilorazu inteligencji.
+- streszczanie tekstu,  Nie, istnieją programy i strony na których te informcje są dostępne. Wystarczy wyszukać w internecie tytułu tekstu który chcemy streścić i dostaniemy dostęp w kilka sekund. Jeżeli człowiek sam by się podejmował tej czynności w dalszym ciągu nie wymaga to wyższego ilorazu inteligencji.
+- tłumaczenie tekstu,  Nie, istnieją programy i strony na których mamy możliwość przetłumaczyć tekst w kilka sekund. Wystarczy wkleić tekst który chcemu przetłumaczyć w np. Chat gpt, i przetłumaczona wersja na jaki kolwiek język bymy chcieli zostanie nam dana w kilka sekund. Chodż jeżeli człowiek sam by sie podją zadania to owszem wymaga to wiekszego ilorazu inteligencji.
+- klasyfikacja tekstu do kategorii tematycznych, Nie, istnieją programy które wykonają tą czynność w sekundę. Chodź jeżeli czlowiek sam by się podją tej czynności nie wymagało by to od niego wyższego ilorazu inteligencji.
+- odpowiadanie na proste pytania zadawane w języku naturalnym (np. polskim), Nie, jest to czynność który wykonuje każdy człowiek codziennie.
+- układanie rozkładu jazdy transportu miejskiego, Do wykonania tego zadania bez używania programów AI jak najbardziej, wymagana by była przynajmniej podstawowa wiedza Logistyczna.
+- programowanie (pisanie programów komputerowych), Do wykonania tego zadania bez pomocy AI jak najbardzziej jest potrzebna wyższa inteligencja, gdyż potrzebna jest przynajmniej podstawowa wiedza informatyczna, oraz języków programowania.
+- „programowanie” kanałów telewizyjnych, Nie, każdy czlowiek na świecie "programuje" kanały telewizyjne codziennie.
+- testowanie oprogramowania, Jeżeli używana bedzie sztuczna inteligencje to nie, nie jest wtedy wymagana wyższa inteligencja. Lecz gdy człowiek podejmie się tej czynności sam to tak wymagana jest znajomośc oprogramowania, do czego służy itd.
+- komponowanie muzyki,
+- rozwiązywanie układów równań,
+- symboliczne obliczanie pochodnych funkcji,
+- symboliczne całkowanie funkcji,
+- kierowanie samochodem.
