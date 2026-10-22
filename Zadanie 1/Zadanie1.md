@@ -1,24 +1,31 @@
-# Które z następujących zadań wymagają w Twojej opinii inteligencji od człowieka:
-- wypełnianie deklaracji PIT,
-  ## Nie, ponieważ są programy które zrobią to za ludzi. Wystarczy zrobić zdjecie i wstawić je do odpowiedniego programu. W dalszym ciągu jeżeli człowiek by się podją tego zadania samodzielnie nie wymagało by to od niego wyższego ilorazu inteligencji. 
-- streszczanie tekstu,
-  ## Nie, istnieją programy i strony na których te informcje są dostępne. Wystarczy wyszukać w internecie tytułu tekstu który chcemy streścić i dostaniemy dostęp w kilka sekund. Jeżeli człowiek sam by się podejmował tej czynności w dalszym ciągu nie wymaga to wyższego ilorazu inteligencji.
-- tłumaczenie tekstu,
-  ## Nie, istnieją programy i strony na których mamy możliwość przetłumaczyć tekst w kilka sekund. Wystarczy wkleić tekst który chcemu przetłumaczyć w np. Chat gpt, i przetłumaczona wersja na jaki kolwiek język bymy chcieli zostanie nam dana w kilka sekund. Chodż jeżeli człowiek sam by sie podją zadania to owszem wymaga to wiekszego ilorazu inteligencji.
-- klasyfikacja tekstu do kategorii tematycznych,
-  ## Nie, istnieją programy które wykonają tą czynność w sekundę. Chodź jeżeli czlowiek sam by się podją tej czynności nie wymagało by to od niego wyższego ilorazu inteligencji.
-- odpowiadanie na proste pytania zadawane w języku naturalnym (np. polskim),
-  ## Nie, jest to czynność który wykonuje każdy człowiek codziennie.
-- układanie rozkładu jazdy transportu miejskiego,
-  ## Do wykonania tego zadania bez używania programów AI jak najbardziej, wymagana by była przynajmniej podstawowa wiedza Logistyczna.
-- programowanie (pisanie programów komputerowych),
-  ## Do wykonania tego zadania bez pomocy AI jak najbardzziej jest potrzebna wyższa inteligencja, gdyż potrzebna jest przynajmniej podstawowa wiedza informatyczna, oraz języków programowania.
-- „programowanie” kanałów telewizyjnych,
-  ## Nie, każdy czlowiek na świecie "programuje" kanały telewizyjne codziennie.
-- testowanie oprogramowania,
-  ## Jeżeli używana bedzie sztuczna inteligencje to nie, nie jest wtedy wymagana wyższa inteligencja. Lecz gdy człowiek podejmie się tej czynności sam to tak wymagana jest znajomośc oprogramowania, do czego służy itd.
-- komponowanie muzyki,
-- rozwiązywanie układów równań,
-- symboliczne obliczanie pochodnych funkcji,
-- symboliczne całkowanie funkcji,
-- kierowanie samochodem.
+# Proste problemy, chatboty
+## Zadanie 1
+Które z następujących zadań wymagają w Twojej opinii inteligencji od człowieka:
+- ### wypełnianie deklaracji PIT,
+  Częściowo. Wymaga znajomości przepisów i logicznego myślenia, ale wiele czynności można wykonać automatycznie.
+- ### streszczanie tekstu,
+  Tak. Wymaga zrozumienia tekstu, wybrania najważniejszych informacji i przedstawienia ich własnymi słowami.
+- ### tłumaczenie tekstu,
+  Tak. Wymaga rozumienia języka, kontekstu i znaczenia wypowiedzi.
+- ### klasyfikacja tekstu do kategorii tematycznych,
+  Częściowo. Wymaga rozpoznania tematu, ale przy prostych kategoriach może opierać się na ustalonych zasadach.
+- ### odpowiadanie na proste pytania zadawane w języku naturalnym (np. polskim),
+  Częściowo. Proste pytania mogą wymagać jedynie przypomnienia informacji, ale bardziej złożone wymagają rozumienia kontekstu.
+- ### układanie rozkładu jazdy transportu miejskiego,
+  Tak. Wymaga planowania, analizowania wielu czynników i rozwiązywania problemów.
+- ### programowanie (pisanie programów komputerowych),
+  Tak. Wymaga logicznego myślenia, rozwiązywania problemów i tworzenia algorytmów.
+- ### „programowanie” kanałów telewizyjnych,
+  Częściowo. Jeśli chodzi o ustawianie kanałów w telewizorze, jest to głównie wykonywanie instrukcji. Jeśli chodzi o planowanie ramówki, wymaga podejmowania decyzji.
+- ### testowanie oprogramowania,
+  Tak. Wymaga wykrywania błędów, analizowania ich przyczyn i przewidywania możliwych problemów.
+- ### komponowanie muzyki,
+  Tak. Wymaga kreatywności, wyobraźni i umiejętności łączenia różnych elementów muzycznych.
+- ### rozwiązywanie układów równań,
+  Częściowo. Wymaga logicznego myślenia, ale standardowe zadania można rozwiązać według określonego schematu.
+- ### symboliczne obliczanie pochodnych funkcji,
+  Częściowo. Polega głównie na stosowaniu poznanych reguł matematycznych.
+- ### symboliczne całkowanie funkcji,
+  Tak. Może wymagać rozpoznawania wzorców, wyboru odpowiedniej metody i niestandardowego podejścia.
+- ### kierowanie samochodem.
+  Tak. Wymaga obserwacji otoczenia, podejmowania szybkich decyzji, przewidywania zagrożeń i reagowania na nieprzewidziane sytuacje.
